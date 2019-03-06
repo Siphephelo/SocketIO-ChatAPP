@@ -6,3 +6,5 @@ Commit on 06 March 2019 at 10:42 with the foloowing notes: These are what came a
 - Add “{user} is typing” functionality.
 - Show who’s online.
 - Add private messaging.
+
+Links to tutorial: https://socket.io/get-started/chat
